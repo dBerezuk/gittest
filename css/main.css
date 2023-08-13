@@ -1,9 +1,12 @@
 body{
+    /*фон*/
     background-color: #2c9c60a3;
 }
 p{
+    /*цвет*/
     color: #702323;
 }
 h2{
+    /*размер шрифта*/
     font-size: 50px;
 }
